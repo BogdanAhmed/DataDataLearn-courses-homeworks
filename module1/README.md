@@ -13,6 +13,7 @@
 
 *Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор.* 
 ## Выполнение работы:
+![](https://github.com/BogdanAhmed/DataLearn-courses-homeworks/blob/main/module1/Diagram.png?raw=true)
 
 
 
